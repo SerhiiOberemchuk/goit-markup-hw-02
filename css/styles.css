@@ -62,6 +62,7 @@ body {
   color: var(--text-color);
   line-height: 1.5;
   text-decoration: none;
+  letter-spacing: 0.02em;
 }
 .address .address-link:hover,
 .address .address-link:focus {
