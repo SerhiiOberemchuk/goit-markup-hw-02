@@ -175,7 +175,7 @@ body {
   background: var(--light-color);
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.64px;
+
   color: var(--primary-brand-color);
   cursor: pointer;
 }
